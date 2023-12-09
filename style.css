@@ -1,0 +1,32 @@
+
+  #fotolar {
+    width: 982px;
+    height: 1615px;
+    margin: auto;
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+  }
+  .foto {
+    width: 304px;
+    height: 303px;
+    background-color: rgb(245, 245, 245);
+    color: rgb(0, 0, 0);
+    border: 2px solid rgb(180, 70, 70);
+    text-align: center;
+    line-height: 200px;
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+  }
+.h1 {
+
+}
+  body {
+    padding: 50px;
+    background: #d67a01;
+  }
+  
+  
